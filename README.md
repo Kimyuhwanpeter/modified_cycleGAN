@@ -45,8 +45,8 @@
 
 * A to B
 
-![image-20201104131942527](C:\Users\Yuhwan\AppData\Roaming\Typora\typora-user-images\image-20201104131942527.png)
+![image-20201104131942527](https://github.com/Kimyuhwanpeter/modified_cycleGAN/blob/master/img/A2B.JPG)
 
 * B to A
 
-![image-20201104132050941](C:\Users\Yuhwan\AppData\Roaming\Typora\typora-user-images\image-20201104132050941.png)
+![image-20201104132050941](https://github.com/Kimyuhwanpeter/modified_cycleGAN/blob/master/img/B2A.JPG)
